@@ -4,7 +4,7 @@ html, body {
     text-align:center;
     vertical-align: middle;
     line-height: 25px;
-    background-color: lightgray;
+    background-color: #4c516d;
 }
 
 header {
@@ -33,6 +33,7 @@ header img{
 	border: 10px solid #000000; 
 	box-shadow: 0 10px 20px black;
 }
+
 
 .content{
 	max-width: 900px;
@@ -65,7 +66,7 @@ a {
 
 footer{
 	padding: 40px 20px;
-	background-color: #CCCCCC
+	background-color: #838996
 }
 footer ul{
 	text-align: center;
